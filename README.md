@@ -1,3 +1,3 @@
 # dp-swa
 
-To-be-updated.
+Available soon.
